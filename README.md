@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Xyzhie Dacanay, currently a 2nd-year BSIT student. I believe that programming is 10% writing code and 90% figuring out why it doesn’t work.
+I'm Xyzhie Dacanay, a 2nd-year BSIT student passionate about mobile app development. I focus on creating intuitive and responsive apps, aiming to blend design with functionality for seamless user experiences.
 
 
 ## 🌐 Socials:
