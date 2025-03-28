@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Xyzhie-Dacanay/Xyzhie-Dacanay/output/snake.svg" alt="Snake animation" />
+
 
 ###
