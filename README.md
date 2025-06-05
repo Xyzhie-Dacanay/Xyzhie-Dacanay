@@ -1,48 +1,34 @@
 <br clear="both">
 
-<div align="right">
-  <img height="500" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"  />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="center">💻 About me</h1>
 
 ###
 
-<br clear="both">
-
-<h6 align="left">I am a dedicated third-year IT student from PHINMA - University of Pangasinan specializing in front-end development. When I’m not coding, you’ll find me I roam open-world games—connecting with players and discovering virtual horizons or exploring the latest tech trends. I believe great software combines clean code with intuitive design.</h6>
+<p align="left">I am a dedicated third-year IT student from PHINMA - University of Pangasinan specializing in front-end development. When I’m not coding, you’ll find me I roam open-world games—connecting with players and discovering virtual horizons or exploring the latest tech trends. I believe great software combines clean code with intuitive design.</p>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">💡What I Do</h3>
 
 ###
 
-<br clear="both">
-
-<h6 align="left">• Build responsive web & mobile apps<br>• Develop project management skills to deliver organized solutions<br>• Contribute to open-source and personal projects to grow my expertise</h6>
+<p align="left">• Build responsive web & mobile apps<br>• Develop project management skills to deliver organized solutions<br>• Contribute to open-source and personal projects to grow my expertise</p>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">📝 Currently Learning</h3>
 
 ###
 
-<br clear="both">
-
-<h6 align="left">React, Next.js, and Typescript</h6>
+<p align="left">React, Next.js, and Typescript</p>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">🌐 Socials:</h2>
 
@@ -64,8 +50,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">💻 Tech Stack:</h2>
 
@@ -94,8 +78,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xyzhie-Dacanay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Xyzhie-Dacanay&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=7" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xyzhie-Dacanay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Xyzhie-Dacanay&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=7" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xyzhie-Dacanay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
