@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Hi, I’m Xyzhie—currently in my third year studying IT at PHINMA – University of Pangasinan with a focus on front-end development. Whether I’m crafting interfaces or gaming in vast virtual worlds, I’m all about using tech to create engaging digital experiences.</p>
+<p align="left">Hi, I’m Xyzhie—currently in my third year studying IT at PHINMA – University of Pangasinan <br> with a focus on front-end development. Whether <br>I’m crafting interfaces or gaming in vast virtual worlds, <br> I’m all about using tech to create engaging digital experiences.</p>
 
 ###
 
