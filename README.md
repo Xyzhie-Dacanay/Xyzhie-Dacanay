@@ -11,7 +11,7 @@
 ###
 
 <p align="justified">Hi, I’m <b>Xyzhie</b>, but I like to be called <b><i>Dodi</i></b>. Currently a third-year <b>BS Info Tech</b> student at PHINMA – University of Pangasinan with a focus on <b><i>front-end development.</i></b></p> <br>
-<p align="justified"> Whether I’m crafting interfaces or gaming in vast virtual worlds, I’m all about using tech to create engaging digital experiences.</p>
+
 
 ###
 
