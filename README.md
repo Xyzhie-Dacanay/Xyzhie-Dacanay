@@ -1,72 +1,18 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/_xy.zh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="20" alt="instagram logo"  />
-  </a>
-  <a href="745901637901746226" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="20" alt="discord logo"  />
-  </a>
-  <a href="xyzhiedacanay24@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/xyzhie-dacanay-b12393292/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="20" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h5 align="left">👋 Hey there! I'm Xyzhie Dacanay  <br><br>Dedicated Mobile App Developer, Front-End Developer, and UI/UX Designer with a strong focus on creating intuitive, responsive, and visually appealing applications. Experienced in project management, ensuring smooth execution from ideation to deployment.<br><br>What I Do:<br>• 📱 Develop mobile apps with React Native and Jetpack Compose<br>• 💻 Build modern, responsive front-end interfaces<br>• 🎨 Design user-friendly UI/UX experiences<br>• 📊 Manage projects for efficient development and delivery</h5>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="kotlin logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="androidstudio logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="jira logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xyzhie-Dacanay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xyzhie-Dacanay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
+# 💫 About Me:
+💫 About Me:<br>Hi there 👋 I’m Xyzhie<br><br>🎓 IT Student | 💻 Front-End Dev | 📱🌐 Mobile & Web | 📊 Project Management<br>A dedicated third-year IT student from PHINMA - University of Pangasinan specializing in front-end development.<br>When I’m not coding, you’ll find me I roam open-world games—connecting with players and discovering virtual horizons.,<br>or exploring the latest tech trends. I believe great software combines clean code with intuitive design.<br><br>💡 What I Do<br>• Build responsive web & mobile apps<br>• Develop project management skills to deliver organized solutions<br>• Contribute to open-source and personal projects to grow my expertise<br><br>🌱 Currently Learning<br>React, Next.js, and Typescript
 
 
-###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/allaboutdodi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/xyzhie-dacanay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xyzhiedacanay24@gmail.com) 
+
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xyzhie-Dacanay&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Xyzhie-Dacanay&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyzhie-Dacanay&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Xyzhie-Dacanay&icon=1&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
