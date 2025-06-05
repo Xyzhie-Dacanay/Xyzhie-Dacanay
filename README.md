@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a dedicated third-year IT student from PHINMA - University of Pangasinan specializing in front-end development. When I’m not coding, you’ll find me I roam open-world games—connecting with players and discovering virtual horizons or exploring the latest tech trends. I believe great software combines clean code with intuitive design.</p>
+<p align="left">Hi, I’m Xyzhie—currently in my third year studying IT at PHINMA – University of Pangasinan with a focus on front-end development. Whether I’m crafting interfaces or gaming in vast virtual worlds, I’m all about using tech to create engaging digital experiences.</p>
 
 ###
 
