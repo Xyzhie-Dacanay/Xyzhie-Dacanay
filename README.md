@@ -19,7 +19,9 @@
 
 ###
 
-<p align="left">• Build responsive web & mobile apps<br>• Develop project management skills to deliver organized solutions<br>• Contribute to open-source and personal projects to grow my expertise</p>
+<p align="justified">	•	Create user-friendly, responsive apps for web and mobile <br>
+	•	Sharpen my project management skills for smoother teamwork<br>
+	•	Grow by contributing to open-source and personal projects</p>
 
 ###
 
