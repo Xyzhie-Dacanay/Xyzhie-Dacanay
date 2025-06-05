@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">💡What I Do</h3>
+<h2 align="left">💡What I Do</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">📝 Currently Learning</h3>
+<h2 align="left">📝 Currently Learning</h2>
 
 ###
 
@@ -54,6 +54,8 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
