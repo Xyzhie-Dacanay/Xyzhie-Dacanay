@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">💻 About me</h1>
+<h1 align="left">💻 About me</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">💡What I Do</h1>
+<h1 align="left">💡What I Do</h1>
 
 ###
 
@@ -22,15 +22,15 @@
 
 ###
 
-<h2 align="left">📝 Currently Learning</h2>
+<h1 align="left">📝 Currently Learning</h1>
 
 ###
 
-<h3 align="left">Flutter, React, and Typescript</h3>
+<p align="left">Flutter, React, and Typescript</p>
 
 ###
 
-<h1 align="center">🌐 Socials:</h1>
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h1 align="center">💻 Tech Stack:</h1>
+<h1 align="left">💻 Tech Stack:</h1>
 
 ###
 
