@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">💻Hi, I'm Xyzhie Dacanay — a Software Developer, Project Manager, and UI/UX Designer focused on building scalable systems, structured workflows, and user-centered digital products.<br><br>Welcome to my GitHub workspace, where concepts are translated into functional applications, efficient project execution, and intuitive interface design. <br><br>If you’re interested in collaboration, project opportunities, or professional discussions:<br>📩 You can email me at:[xyzhiedacanay24@gmail.com](mailto:xyzhiedacanay24@gmail.com)</p>
+<p align="left">💻Hi, I'm Xyzhie Dacanay — a Software Developer, Project Manager, and UI/UX Designer focused on building scalable systems, structured workflows, and user-centered digital products.<br><br>Welcome to my GitHub workspace, where concepts are translated into functional applications, efficient project execution, and intuitive interface design. <br><br>If you’re interested in collaboration, project opportunities, or professional discussions:<br>📩 You can email me at: <a href="mailto:xyzhiedacanay24@gmail.com"></a></p>
 
 ###
 
