@@ -111,13 +111,6 @@
 
 
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/dudikwikwi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dudikwikwi&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ## 🎵 Recently Played
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316orulnkwqsqcdwk77h34rotrie)
