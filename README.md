@@ -39,6 +39,7 @@
   <ul>Applying Agile and structured project management methodologies</ul><br>
   <ul>Designing intuitive and user-centered interfaces (UI/UX principles)</ul><br>
  <ul> Developing practical, real-world systems<br>Improving code quality, scalability, and maintainability</p></ul>
+</li>
 
 ###
 
