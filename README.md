@@ -34,11 +34,11 @@
 
 <p align="left">
 <li>
-  <ul>Strengthening programming fundamentals (OOP, system design, problem-solving)</ul><br>
-  <ul>Building full-stack applications (React, Next.js, JavaScript, TypeScript)</ul><br>
-  <ul>Applying Agile and structured project management methodologies</ul><br>
-  <ul>Designing intuitive and user-centered interfaces (UI/UX principles)</ul><br>
- <ul> Developing practical, real-world systems<br>Improving code quality, scalability, and maintainability</p></ul>
+  <ul>Strengthening programming fundamentals (OOP, system design, problem-solving)<br>
+  Building full-stack applications (React, Next.js, JavaScript, TypeScript)<br>
+ Applying Agile and structured project management methodologies<br>
+ Designing intuitive and user-centered interfaces (UI/UX principles)<br>
+<ul> Developing practical, real-world systems<br>Improving code quality, scalability, and maintainability</p></ul>
 </li>
 
 ###
